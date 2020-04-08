@@ -255,7 +255,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginStart="5dp"
                         android:fontFamily="@font/bold"
-                        android:text="State Wise Report"
+                        android:text="Statewise Report"
                         android:textColor="@color/textColor"
                         android:textSize="18dp" />
 
