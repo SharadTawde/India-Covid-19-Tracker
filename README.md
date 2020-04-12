@@ -9,6 +9,19 @@ https://github.com/SharadTawde/India-Covid-19-Tracker/raw/master/app-debug.apk.
 # ScreenShots
 
 <div align="start">
-    <img hspace="20" src="/screenshot_1.png" width="400px"</img>
-    <img src="/screenshot_2.png" width="400px"</img>
+    <img hspace="20" src="/screenshot_1.png" width="300px"</img>
+    <img src="/screenshot_2.png" width="300px"</img>
 </div>
+
+
+# About
+- It simply loads **Total COVID19 cases in India** from API.
+- It shows the statewise repost.
+
+# Contribute
+If you want to contribute to this library, you're always welcome!.
+
+# Credits
+Thanks to covid19india.org for open-source API.
+
+# License
