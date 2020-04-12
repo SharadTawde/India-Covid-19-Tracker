@@ -5,12 +5,10 @@
 
 https://github.com/SharadTawde/India-Covid-19-Tracker/raw/master/app-debug.apk.
 
-**ScreenShots**
 
-<div align="center">
-    <img src="/Screenshot_20200412-100622_COVID19 Tracker.jpg" width="400px"</img> 
-</div>
+# ScreenShots
 
-<div align="center">
-    <img src="/Screenshot_20200412-100643_COVID19 Tracker.jpg" width="400px"</img> 
+<div align="start">
+    <img hspace="20" src="/screenshot_1.png" width="400px"</img>
+    <img src="/screenshot_2.png" width="400px"</img>
 </div>
