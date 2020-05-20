@@ -1,4 +1,10 @@
 # India Covid-19 Tracker
+
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Github Followers](https://img.shields.io/github/followers/SharadTawde?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/sharadtawde?label=Follow&style=social)
+
+
 **India Covid-19 Tracker** is a sample Android application 📱 built to demonstrate use of Modern Android development tools. Dedicated to all Android Developers with ❤️.
 
 **You can Install and test latest Covid19 Notifier app from below 👇**.
@@ -25,6 +31,7 @@ If you want to contribute to this library, you're always welcome!.
 Thanks to [Covid-19India.org](https://www.covid19india.org/) for open-source API.
 
 # License
+```
 MIT License
 
 Copyright (c) 2020 Sharad Tawde
@@ -46,3 +53,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
