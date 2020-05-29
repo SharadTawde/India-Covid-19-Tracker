@@ -2,7 +2,6 @@ package com.sharad.covid.alert;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -134,8 +133,4 @@ public class MainActivity extends AppCompatActivity {
         mQueue.add(request);
     }
 
-    public void openAbout(View view) {
-        AboutBottomSheet bottomSheet = new AboutBottomSheet();
-        bottomSheet.show(getSupportFragmentManager(),"");
-    }
 }

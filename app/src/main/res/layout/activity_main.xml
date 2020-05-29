@@ -39,27 +39,8 @@
                     android:textStyle="bold"
                     android:layout_weight="1"/>
 
-                    <ImageView
-                        android:layout_width="40dp"
-                        android:layout_height="30dp"
-                        android:layout_marginTop="15sp"
-                        android:paddingStart="5dp"
-                        android:clickable="true"
-                        android:focusable="true"
-                        android:onClick="openAbout"
-                        android:src="@drawable/developer"
-                        tools:ignore="RtlSymmetry" />
-
                 </LinearLayout>
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="2dp"
-                    android:fontFamily="@font/regular"
-                    android:text="A CROWDSOURCED INITIATIVE"
-                    android:textColor="#B32D2D2D"
-                    android:textSize="12sp" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
